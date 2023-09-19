@@ -10,5 +10,9 @@ API WEB que utiliza Python e o framework FastAPI  https://fastapi.tiangolo.com/
 - Utilização de Docker para execução.
 - Teste automáticos com PyTest
 
+# SWAGER
+![Alt text](Api.png)
 
+# Testes
+![Alt text](Testes.png)
 
